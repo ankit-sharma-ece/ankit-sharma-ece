@@ -34,22 +34,22 @@
 
 
 
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-green?style=for-the-badge)
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-2ea44f?style=for-the-badge)
 
 
 
 
-![ECG Monitoring](https://img.shields.io/badge/ECG_Monitoring-red?style=for-the-badge)
+![ECG Monitoring](https://img.shields.io/badge/ECG_Monitoring-e74c3c?style=for-the-badge)
 
 
 
 
-![IR Sensor](https://img.shields.io/badge/IR_Sensor-yellow?style=for-the-badge&logoColor=black)
+![IR Sensor](https://img.shields.io/badge/IR_Sensor-f39c12?style=for-the-badge)
 
 
 
 
-![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-2980b9?style=for-the-badge)
 
 
 
@@ -97,4 +97,4 @@
 
 
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-sharma-ece&show_icons=true&theme=dark)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-sharma-ece&show_icons=true&theme=dark&hide_border=true)
